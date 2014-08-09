@@ -8,9 +8,9 @@ autopublish
 insecure
 iron-router
 coffeescript
-less
 accounts-ui
 accounts-entry
 accounts-password
 handlebars-server
 minimongoid
+scss
